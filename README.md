@@ -295,8 +295,6 @@ matrix.target({
 
 ## 🤝 CONTRIBUTION: JOIN THE COLLECTIVE
 
-<img align="left" width="280" src="https://media.giphy.com/media/l0HlR3EhMFhjIhI2I/giphy.gif" alt="Collaboration">
-
 We welcome **interdimensional collaborators** and **aetheric pioneers**!
 
 ### **How to Channel New Power:**
@@ -388,7 +386,7 @@ Licensed under the **Primordial Force Accord v2.0**
 
 <div align="center">
 
-![Avatar](https://avatars.githubusercontent.com/u/YOUR-ID?v=4&s=100)
+![Avatar](https://avatars.githubusercontent.com/u/VrilDev?v=4&s=100)
 
 **VrilDev** — *Keeper of the Forbidden Energy* ⚡  
 *Unleashing suppressed potential since [REDACTED]*

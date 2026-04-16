@@ -335,9 +335,9 @@ We welcome **interdimensional collaborators** and **aetheric pioneers**!
 
 **Join thousands of Vril channelers worldwide:**
 
-[![Discord](https://img.shields.io/badge/Discord-Vril%20Collective-7289da?style=for-the-badge&logo=discord)](https://discord.gg/urkraft-vril)
-[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-181717?style=for-the-badge&logo=github)](https://github.com/VrilDevMake/urkraft-vril/issues)
-[![Twitter](https://img.shields.io/badge/Twitter-%40UrkraftVril-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/UrkraftVril)
+[![Discord](https://img.shields.io/badge/Discord-Vril%20Collective-7289da?style=for-the-badge&logo=discord)](https://discord.gg/VrilDev)
+[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-181717?style=for-the-badge&logo=github)](https://github.com/VrilDev/issues)
+[![Twitter](https://img.shields.io/badge/Twitter-%40VrilDev-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/VrilDev)
 
 **Star us on GitHub:** ⭐ Star the repository to channel your support!
 
@@ -370,7 +370,7 @@ We welcome **interdimensional collaborators** and **aetheric pioneers**!
 
 Licensed under the **Primordial Force Accord v2.0**
 
-*This technology has been suppressed for millennia for a reason. By accessing Urkraft Vril, you acknowledge:*
+***This technology has been suppressed for millennia for a reason. By accessing Urkraft Vril, you acknowledge:***
 
 - ✅ You understand the risks of channeling raw primordial energy
 - ✅ You accept all interdimensional consequences
@@ -390,7 +390,7 @@ Licensed under the **Primordial Force Accord v2.0**
 
 ![Avatar](https://avatars.githubusercontent.com/u/YOUR-ID?v=4&s=100)
 
-**VrilDevMake** — *Keeper of the Forbidden Energy* ⚡  
+**VrilDev** — *Keeper of the Forbidden Energy* ⚡  
 *Unleashing suppressed potential since [REDACTED]*
 
 ### **Core Team:**
@@ -398,7 +398,7 @@ Licensed under the **Primordial Force Accord v2.0**
 - ⚡ **Energy Specialist** - TBA
 - 🌌 **Interdimensional Liaison** - TBA
 
-Want to join? [Reach out through the aether](mailto:contact@urkraft-vril.com)
+Want to join? Reach out through the aether...
 
 </div>
 
